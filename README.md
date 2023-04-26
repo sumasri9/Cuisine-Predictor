@@ -1,5 +1,12 @@
 # cs5293sp23-project2 - Cuisine Predictor
 This project collects ingredients from the user and predicts cuisine type and the cuisines closest to the provided ingredients. We use 'yummly.json' data set to train and test the data. The prediction is printed directly to the screen console.
+
+
+
+https://user-images.githubusercontent.com/124108020/234647310-29cb8764-5fdc-44c9-8add-32610df544f6.mov
+
+
+
 ### Requirements
 1. python version 3+
 ### Required libraries
